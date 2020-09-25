@@ -9,6 +9,8 @@ Template project for a Typescript app designed to run on node 12
 1. Maximum support for NodeJS 12 JS features
 1. ESLint
 1. Prettier
-1. Auto-package install via git hooks
-1. Auto-lint and format via git hooks
+1. Jest
+1. Auto-package install on pull
+1. Auto-lint on commit
+1. Auto-test on commit
 1. Dependabot

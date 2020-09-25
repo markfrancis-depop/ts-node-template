@@ -5,7 +5,8 @@
   "scripts": {
     "start": "nodemon src/index.ts",
     "build": "tsc",
-    "test": "jest --watch",
+    "test": "jest",
+    "test:w": "jest --watch",
     "test:ci": "jest --coverage"
   },
   "devDependencies": {
@@ -29,7 +30,8 @@
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
-      "post-merge": "yarn"
+      "post-merge": "yarn",
+      "pre-push": "yarn test"
     }
   },
   "lint-staged": {

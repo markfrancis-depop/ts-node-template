@@ -12,5 +12,5 @@ Template project for a Typescript app designed to run on node 12
 1. Jest
 1. Auto-package install on pull
 1. Auto-lint on commit
-1. Auto-test on commit
+1. Auto-test on push
 1. Dependabot

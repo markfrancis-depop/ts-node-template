@@ -16,3 +16,5 @@ jobs:
         run: yarn
       - name: Build app
         run: yarn build
+      - name: Test app
+        run: yarn test:ci

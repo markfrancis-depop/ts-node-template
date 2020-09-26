@@ -2,6 +2,8 @@
 
 Template project for a Typescript app designed to run on node 12
 
+[![Actions Status](https://github.com/MarkSFrancis/ts-node-template/workflows/Build/badge.svg)](https://github.com/MarkSFrancis/ts-node-template/actions)
+
 ## Features
 
 1. Typescript

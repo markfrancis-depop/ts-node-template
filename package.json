@@ -8,7 +8,7 @@
   "scripts": {
     "start": "nodemon src/index.ts",
     "build": "tsc",
-    "test": "jest --changedSince master",
+    "test": "jest --changedSince main",
     "test:all": "jest",
     "prepare": "husky install"
   },

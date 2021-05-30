@@ -16,3 +16,10 @@ Template project for a Typescript app designed to run on node 14
 1. Auto-lint on commit
 1. Auto-test on push
 1. Dependabot
+
+## What's not included
+
+1. Production environment
+1. Production configuration
+1. Application deployment
+1. Bundling or tree-shaking

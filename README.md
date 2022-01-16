@@ -1,6 +1,6 @@
 # Typescript Template for Node
 
-Template project for a Typescript app designed to run on node 14
+Template project for a Typescript app designed to run on node 16
 
 [![Actions Status](https://github.com/MarkSFrancis/ts-node-template/workflows/Build/badge.svg)](https://github.com/MarkSFrancis/ts-node-template/actions)
 
@@ -8,7 +8,7 @@ Template project for a Typescript app designed to run on node 14
 
 1. Typescript
 1. Hot reload
-1. Maximum support for NodeJS 14 features
+1. Maximum support for NodeJS 16 features
 1. ESLint
 1. Prettier
 1. Jest

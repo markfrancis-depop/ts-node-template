@@ -1,3 +1,3 @@
-import { sum } from "./math";
+import { sum } from './math'
 
-console.info(sum(1, 2));
+console.info(sum(1, 2))
